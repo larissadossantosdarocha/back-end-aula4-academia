@@ -1,0 +1,54 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background: rgb(255, 255, 255);
+}
+
+.container{
+    width: 100%;
+    background: rgb(255, 136, 136);
+    color: white;
+    padding: 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.div1{
+    font-size: 22px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.container_formulrio{
+    width: 90%;
+    height: 550px;
+    background:rgb(255, 136, 136);
+    border: 10px;
+    margin: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 15px;
+}
+
+input{
+    width: 250px;
+    margin: 10px;
+    padding: 15px;
+    border-radius: 5px;
+    border-radius: 15px;
+    border: nome;
+}
+
+#botao{
+    width: 100px;
+    background: rgb(255, 255, 255);
+    color:rgb(255, 136, 136);
+    font-size: 14px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+
+}
